@@ -1,0 +1,23 @@
+PODS:
+  - Koloda (4.1):
+    - pop (~> 1.0)
+  - pop (1.0.9)
+  - Realm (2.6.2):
+    - Realm/Headers (= 2.6.2)
+  - Realm/Headers (2.6.2)
+  - RealmSwift (2.6.2):
+    - Realm (= 2.6.2)
+
+DEPENDENCIES:
+  - Koloda
+  - RealmSwift
+
+SPEC CHECKSUMS:
+  Koloda: 6c4fa3ce9a68776a8ef973311e53fdda432799a8
+  pop: f667631a5108a2e60d9e8797c9b32ddaf2080bce
+  Realm: 29222766425b9f831228f81b63f0e38a97a4d700
+  RealmSwift: d161a80f96cb91ae88391a7d5a9cf08024a7bc8e
+
+PODFILE CHECKSUM: 5ae9ba5a31d634d5b9dc970b078f8c0bd959a0ff
+
+COCOAPODS: 1.2.1
